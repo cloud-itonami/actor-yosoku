@@ -1,6 +1,6 @@
 # actor-yosoku
 
-Canonical repository: `etzhayyim/actor-yosoku`. This governed scenario
+Canonical repository: `cloud-itonami/actor-yosoku`. This governed scenario
 simulation organ belongs to the Tamaki-centered Etzhayyim artificial
 organism. It may propose and simulate bounded scenarios, while the independent
 ScenarioGovernor and human escalation boundary retain commit authority. The
